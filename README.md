@@ -2,10 +2,10 @@
 - 👋 Hi, I’m @Maruthi18
 - 👀 I’m interested in Learning New Technical Skills Daily
 - 🌱 I’m currently learning ... Data Analysis
-- 💞️ I’m looking to collaborate anyone WHo have Technical Skills
+- 💞️ Send Me a Project Ideas , I'll Implement ideas into the Code
 - 📫 How to reach me ... syavemaruthi18@gmail.com or Insta : maruthi.smp
 - ⭐ Skills : c , Java , Python , SQl , MongoDB 
-- 👉 Other : App Development Using Java , Html , Css , Data Scraping 
+- 👉 Other : App Development Using Java , Html , Css , Data Scraping , DBMS
 
 <!---
 Maruthi18/Maruthi18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
