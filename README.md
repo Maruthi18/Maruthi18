@@ -1,4 +1,4 @@
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FQyBnxZiCT6Y8eFQ
+
 
 ### HeY This is S.Maruthi Prasad and Currently I'm Studying Btech Right Now
 - 👋 Hi, I’m @Maruthi18
