@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Data Analysis
 - 💞️ Send Me a Project Ideas , I'll Implement ideas into the Code
 - 📫 How to reach me ... syavemaruthi18@gmail.com or Insta : maruthi.smp
-- ⭐ Skills : c , Java , Python , SQl , MongoDB ,Git
+- ⭐ Skills : c , Java , Python , SQl , MongoDB , Git
 - 👉 Other : App Development Using Java , Html , Css , Data Scraping , DBMS
 
 <!---
