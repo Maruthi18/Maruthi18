@@ -5,8 +5,8 @@ Data Analyst
 ------------
 
 * 🌍  I'm based in INDIA
+* 🧠  I'm Data Science |ML| AI enthusisast
 * ✉️  You can contact me at [syavemaruthi18@gmail.com](mailto:syavemaruthi18@gmail.com)
-* 🧠  I'm learning Data Science Tools
 * 🤝  I'm open to collaborating on Data Analyst Projects
 
 ### Skills
