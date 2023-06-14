@@ -1,7 +1,7 @@
 Hi 👋 My name is Maruthi Prasad
 ===============================
 
-Data Analyst
+Data Engineer
 ------------
 
 * 🌍  I'm based in INDIA
